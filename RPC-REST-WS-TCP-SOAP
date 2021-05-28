@@ -1,0 +1,8 @@
+
+DIFFERENCE SERVICES - ADVANTAGES & DIS-ADVANTAGES ---- INTEGRATION IN JAVA  -- EXAMPLES
+
+
+
+REMOTE METHOD INVOCATION - REMOTE PROCEDURE CALLS
+  -   In java RPI API used for Garbage collection -> as it points to each object and regularly checks whether it is active or not
+  -   RPC 
